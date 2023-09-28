@@ -1,4 +1,4 @@
-# Prompts for ChatGPT-4
+# Prompts: ChatGPT-4
 
 A collection of prompts for ChatGPT.
 
