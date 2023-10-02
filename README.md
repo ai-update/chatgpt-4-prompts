@@ -1,6 +1,8 @@
 # ChatGPT-4 Prompts
 
-A collection of prompts for the *paid version* of ChatGPT.
+A collection of prompts for the *paid version* of ChatGPT: 
+
+🌐 http://openai.com/product/gpt-4
 
 The purpose of this project is to offer a diverse range of prompt (templates) that can be used to interact with ChatGPT effectively.
 
