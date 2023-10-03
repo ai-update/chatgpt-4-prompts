@@ -1,10 +1,10 @@
 # ChatGPT-4 Prompts
 
-🤖 A collection of prompts for the *paid version* of ChatGPT: 
+🤖 A collection of *selfmade* prompts for the *paid version* of ChatGPT: 
 
 🌐 http://openai.com/product/gpt-4
 
-The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
+All prompts are made by:
 
 🌐 https://casvanvliet.substack.com
 
