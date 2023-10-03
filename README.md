@@ -8,6 +8,7 @@ All prompts are made by:
 
 🌐 https://casvanvliet.substack.com
 
+# Prompts:
 ## 👩🏻‍💻 General
 ## 👔 Corporate
 ## 🔎 Research
