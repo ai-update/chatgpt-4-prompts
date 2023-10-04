@@ -10,7 +10,6 @@ All prompts are made by:
 
 ## Table of Content
 
-Prompts:
 - 👩🏻‍💻 General
 - 👔 Corporate
 - 🔎 Research
