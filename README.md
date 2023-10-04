@@ -8,7 +8,7 @@ All prompts are made by:
 
 🌐 https://casvanvliet.substack.com
 
-## Table of Content
+## Table of Contents
 
 - 👩🏻‍💻 General
 - 👔 Corporate
