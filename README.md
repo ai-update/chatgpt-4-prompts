@@ -1,8 +1,8 @@
 # ChatGPT-4 Prompts
 
-🤖 A collection of prompts for the [*paid version* of ChatGPT](http://openai.com/product/gpt-4).
+ℹ️ A collection of prompts for the [*paid version* of ChatGPT](http://openai.com/product/gpt-4).
 
-Made by [Cas van Vliet](https://casvanvliet.substack.com).
+®️ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
