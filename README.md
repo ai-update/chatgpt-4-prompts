@@ -8,19 +8,19 @@
 
 - 👩🏻‍💻 [General](#General)
 - 👔 [Corporate](#Corporate)
-- 🔎 [Research](
-- 🖳 [Programming](
-- 🗣️ [Languages](
-- 📱 [Social Media](
-- ✍️ [Writing](
-- 👙 [Vacation](
+- 🔎 [Research](Research)
+- 🖳 [Programming](Programming)
+- 🗣️ [Languages](Languages)
+- 📱 [Social Media](Media)
+- ✍️ [Writing](Writing)
+- 👙 [Vacation](Vacation)
 
 # Prompts:
-## 👩🏻‍💻 General
-## 👔 Corporate
-## 🔎 Research
-## 🖳 Programming
-## 🗣️ Languages
-## 📱 Social Media
-## ✍️ Writing
-## 👙 Vacation
+## General
+## Corporate
+## Research
+## Programming
+## Languages
+## Social Media
+## Writing
+## Vacation
