@@ -6,14 +6,14 @@
 
 ## Table of Contents
 
-- 👩🏻‍💻 General
-- 👔 Corporate
-- 🔎 Research
-- 🖳 Programming
-- 🗣️ Languages
-- 📱 Social Media
-- ✍️ Writing
-- 👙 Vacation
+- 👩🏻‍💻 [General](#General)
+- 👔 [Corporate](#Corporate)
+- 🔎 [Research](
+- 🖳 [Programming](
+- 🗣️ [Languages](
+- 📱 [Social Media](
+- ✍️ [Writing](
+- 👙 [Vacation](
 
 # Prompts:
 ## 👩🏻‍💻 General
