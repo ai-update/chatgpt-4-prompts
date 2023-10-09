@@ -17,12 +17,11 @@
 
 ## Instructions
 
-1. _**Choose** a prompt that matches your task._
-   > For example: DIY, email writing, or coding.
+1. _**Choose a prompt** that matches your task._
+   
+2. _**Replace the 'placeholders'** in the prompt._
 
-2. _**Replace** the 'placeholders' in the prompt._
-
-3. _**Copy and Paste** the prompt into ChatGPT & **hit ENTER**._
+3. _**Copy and Paste the prompt** into ChatGPT & **hit ENTER**._
 
 ## More prompts:
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
