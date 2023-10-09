@@ -1,6 +1,6 @@
 # ChatGPT-4 Prompts
 
-ℹ️ A collection of **prompts** for the [**paid version**](http://openai.com/product/gpt-4). of [**ChatGPT**](http://openai.com/product/gpt-4).
+ℹ️ A collection of **prompts** for the [**paid version**](http://openai.com/product/gpt-4) of [**ChatGPT**](http://openai.com/product/gpt-4).
 
 ™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
@@ -15,15 +15,15 @@
 - ✍️ [Writing](Writing)
 - 👙 [Vacation](Vacation)
 
-## Instructions
+## Instructions:
 
-1. _**Choose a prompt** that matches your task._
+1. _**Choose a prompt** for your task._
    
 2. _**Replace the 'placeholders'** in the prompt._
 
-3. _**Copy and Paste the prompt** into ChatGPT & **hit ENTER**._
+3. _**Copy and Paste the prompt** into ChatGPT._
 
-## More prompts:
+## More Prompts
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **9.99**
 
