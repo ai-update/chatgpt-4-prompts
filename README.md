@@ -17,11 +17,11 @@
 
 ## Instructions:
 
-1. _**Choose a prompt** for your task._
+1. ☑️ _**Choose a prompt** for your task._
    
-2. _**Replace the 'placeholders'** in the prompt._
+2. ☑️ _**Replace the 'placeholders'** in the prompt._
 
-3. _**Copy and Paste the prompt** into ChatGPT._
+3. ☑️ _**Copy and Paste the prompt** into ChatGPT._
 
 ## More Prompts
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
