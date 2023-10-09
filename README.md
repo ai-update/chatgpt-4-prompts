@@ -15,6 +15,14 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 - ✍️ [Writing](Writing)
 - 👙 [Vacation](Vacation)
 
+## Instructions
+
+    Choose a category that matches your task, like DIY, email writing, or coding.
+
+    Replace the 'placeholders' in the prompts with your specific details.
+
+    Copy and Paste the prompt into ChatGPT and hit ENTER.
+
 ## More prompts:
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **9.99**
