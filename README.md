@@ -1,6 +1,6 @@
 # ChatGPT-4 Prompts
 
-A collection of prompts for the [**paid version**](http://openai.com/product/gpt-4). of [ChatGPT](http://openai.com/product/gpt-4).
+A collection of **prompts** for the [**paid version**](http://openai.com/product/gpt-4). of [**ChatGPT**](http://openai.com/product/gpt-4).
 
 Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
@@ -14,6 +14,15 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 - 📱 [Social Media](Media)
 - ✍️ [Writing](Writing)
 - 👙 [Vacation](Vacation)
+
+### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
+> 💲 **9.99**
+
+### 📝 [**100 Tailored Prompts**](mailto:workcommunication@duck.com) 
+> 💲 **$9.99**
+
+### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
+> 💲 **SALE: 49.99**
 
 # Prompts:
 ## General
