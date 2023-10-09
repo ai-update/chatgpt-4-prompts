@@ -30,7 +30,7 @@
 > 💲 **$9.99**
 
 ### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
-> 💲 **SALE: 49.99**
+> 💲 **49.99**
 
 # Prompts:
 ## General
