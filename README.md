@@ -15,6 +15,7 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 - ✍️ [Writing](Writing)
 - 👙 [Vacation](Vacation)
 
+## More prompts:
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **9.99**
 
