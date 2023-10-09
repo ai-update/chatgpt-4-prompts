@@ -17,11 +17,12 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Instructions
 
-    Choose a category that matches your task, like DIY, email writing, or coding.
+1. **Choose a category that matches your task.**
+   > For example: DIY, email writing, or coding.
 
-    Replace the 'placeholders' in the prompts with your specific details.
+2. **Replace the 'placeholders' in the prompts.**
 
-    Copy and Paste the prompt into ChatGPT and hit ENTER.
+3. **Copy and Paste the prompt into ChatGPT** and hit ENTER.
 
 ## More prompts:
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
