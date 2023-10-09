@@ -17,10 +17,9 @@
 
 ## Instructions:
 
-1. ☑️ _**Choose a prompt**_
-   
-2. ☑️ _**Replace the [placeholders]**_
-3. ☑️ _**Copy and Paste the prompt**_
+1. ☑️ _**Choose** a prompt._
+2. ☑️ _**Replace** the [placeholders]._
+3. ☑️ _**Copy and Paste** the prompt._
    
 ## More Prompts
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
