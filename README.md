@@ -1,10 +1,8 @@
 # ChatGPT-4 Prompts
 
-![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/567840f2-8012-4a2f-90f5-421dc24ebe3d)
+## Prompts for the [**paid version**](http://openai.com/product/gpt-4) of [**ChatGPT**](http://openai.com/product/gpt-4)
 
-## A collection of **prompts** for the [**paid version**](http://openai.com/product/gpt-4) of [**ChatGPT**](http://openai.com/product/gpt-4)
-
-### ™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com)
+![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/67a5a124-cdf1-40fc-bd9c-8658a18bd444)
 
 ## Table of Contents
 
