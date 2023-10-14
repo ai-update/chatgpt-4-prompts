@@ -8,14 +8,14 @@
 
 ## Table of Contents
 
-- 👩🏻‍💻 [General](#General)
-- 👔 [Corporate](#Corporate)
-- 🔎 [Research](Research)
-- 🖳 [Programming](Programming)
-- 🗣️ [Languages](Languages)
-- 📱 [Social Media](Media)
-- ✍️ [Writing](Writing)
-- 👙 [Vacation](Vacation)
+- 👩🏻‍💻 **[General](#General)**
+- 👔 **[Corporate](#Corporate)**
+- 🔎 **[Research](Research)**
+- 🖳 **[Programming](Programming)**
+- 🗣️ **[Languages](Languages)**
+- 📱 **[Social Media](Media)**
+- ✍️ **[Writing](Writing)**
+- 👙 **[Vacation](Vacation)**
 
 ## Instructions:
 
@@ -24,6 +24,7 @@
 3. ☑️ _**Copy and Paste** the prompt._
    
 ## More Prompts
+
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **9.99**
 
