@@ -1,6 +1,6 @@
 # ChatGPT-4 Prompts
 
-![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/b9dcba08-4ce9-461d-95e7-a849360fec97)
+![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/567840f2-8012-4a2f-90f5-421dc24ebe3d)
 
 ℹ️ A collection of **prompts** for the [**paid version**](http://openai.com/product/gpt-4) of [**ChatGPT**](http://openai.com/product/gpt-4).
 
