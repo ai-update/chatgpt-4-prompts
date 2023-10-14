@@ -1,5 +1,7 @@
 # ChatGPT-4 Prompts
 
+![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/b9dcba08-4ce9-461d-95e7-a849360fec97)
+
 ℹ️ A collection of **prompts** for the [**paid version**](http://openai.com/product/gpt-4) of [**ChatGPT**](http://openai.com/product/gpt-4).
 
 ™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com).
