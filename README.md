@@ -1,6 +1,6 @@
 # ChatGPT-4 Prompts
 
-![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/0aff1449-a4c1-4d63-8b8d-f8fc0a534c8a)
+![image](https://github.com/cas-van-vliet/chatgpt-4-prompts/assets/146363448/4156bb5c-aca2-4279-bf51-2075b2fadda0)
 
 ## Table of Contents
 
