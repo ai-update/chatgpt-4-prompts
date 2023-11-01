@@ -207,3 +207,5 @@ Respecting Local Customs:
 Showing Cultural Respect:
 
     Cultural sensitivity is paramount to me. Could you provide detailed information about appropriate attire for different cultural and religious sites in [destination], and share insights on how to show cultural respect during my travels?
+
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
